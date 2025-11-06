@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UMFST.MIP.CarServiceDashboard
+namespace UMFST.MIP.CarServiceDashboard.Models
 {
     public class Client
     {

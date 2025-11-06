@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace UMFST.MIP.CarServiceDashboard
+namespace UMFST.MIP.CarServiceDashboard.Models
 {
     public class WorkOrder
     {

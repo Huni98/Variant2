@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace UMFST.MIP.CarServiceDashboard
+namespace UMFST.MIP.CarServiceDashboard.Models
 {
     public class Car
     {

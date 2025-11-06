@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UMFST.MIP.CarServiceDashboard
+namespace UMFST.MIP.CarServiceDashboard.Models
 {
-    i// Represents a single OBD code (DTC)
+    // Represents a single OBD code (DTC)
     public class Diagnostic
     {
         [Key]
